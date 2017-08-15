@@ -8,7 +8,6 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.3'
-gem 'bootstrap'
 gem 'bootstrap-sass'
 gem 'font-awesome-rails'
 # Use Puma as the app server
